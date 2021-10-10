@@ -15,6 +15,7 @@
   </head>
   <body>
     <img class="mb-4 mt-2 ms-4" src="img/logoukdw.png" alt="" width="92" height="112">
+    <a href="/register" class="float-end mt-2 me-2">Register here</a>
       <div class="row d-flex justify-content-center mt-5">
           <div class="col-md-3">
                   <main class="form-signin">
